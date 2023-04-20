@@ -1,0 +1,42 @@
+* {
+    border: 2px solid red;
+}
+
+body {
+    background:#EEEEEE;
+    padding: 60px 10px;
+}
+
+#header {
+    background-color: blue;
+    color:rgb(54, 54, 54);
+    text-align: left;
+
+
+}
+
+#container {
+    background-color: green;
+}
+
+#nav {
+    text-align: left;
+    float:left;
+}
+
+#content {
+    padding: 20px;
+    text-align: center;
+}
+
+#footer {
+    clear:both;
+}
+
+#nav .selected {
+    font-weight: bold;
+}
+
+#main {
+    text-align: center;
+}
